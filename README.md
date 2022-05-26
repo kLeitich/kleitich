@@ -15,7 +15,7 @@ I'm a Software Engineer 👨‍💻 who is passionate about Web development,Soft
 
 
 
-<a align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=shoaibkakal.visitor-badge" alt="hj" /> </a>
+<a align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=kLeitich.visitor-badge" alt="hj" /> </a>
 
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/kLeitich)
@@ -75,18 +75,12 @@ I'm a Software Engineer 👨‍💻 who is passionate about Web development,Soft
 - 📫 How to reach me: Links are given above 🔝
 - 🔭 I have finished a BOOTCAMP with Moringa
 - 👯 I’m looking to collaborate on Projects
-- 💬 Apart from tech you can Ask me about Movies, TV Shows and Books
-- 📱 Live apps on Heroku [20][python]
+- 💬 Apart from tech you can Ask me about Accountin 
+- 📱 Live apps on Heroku 
 
 - 🤪 Fun fact: I love to travel and meet new people.
 - 👉</td>
-    <td>- 💻 The tech I'm interested in Web development, Kotlin, Flutter,AI and ML
-- ✍ Technical writer at Upwork
-
-- ✨ I'm learning Flutter, Web scrapping, Automations etc.
-- 🎮 PS 5 Player
-- ⚡ Fun fact: I can mentally be present in a meeting for 45-60 minutes.
-</td>
+ 
  </tr>
 </table>
 
@@ -146,9 +140,7 @@ What I ❤️ doing:
     <td><a href="https://github.com/iampawan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kLeitich&theme=tokyonight&hide_langs_below=0&langs_count=20" />
 </a></td>
-    <td> ✨ Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="" />](https://open.spotify.com/user/31oneox7mebvwuiv3rg2wgnrnu6e)</td>
+    
 
  </tr>
 </table>
