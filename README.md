@@ -6,7 +6,7 @@
 
 # KEVIN LEITICH <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 👩🏼‍💻 👋
 
-### A Software engineer, Developer & Graghic designer 💚
+### A Software engineer & Developer
 
 I'm a Software Engineer 👨‍💻 who is passionate about Web development,Software development,Python Development and opensource. I love building web applications & discussing new product ideas.I'm also an Accountant and Finance 🏄‍♂️.
 
