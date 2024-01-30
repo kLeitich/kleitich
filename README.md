@@ -15,7 +15,7 @@ I'm a Software Engineer 👨‍💻 who is passionate about Web development,Soft
 
 
 
-<a align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=kLeitich.visitor-badge" alt="hj" /> </a>
+
 
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/kLeitich)
@@ -75,7 +75,7 @@ I'm a Software Engineer 👨‍💻 who is passionate about Web development,Soft
 - 📫 How to reach me: Links are given above 🔝
 - 🔭 I have finished a BOOTCAMP with Moringa
 - 👯 I’m looking to collaborate on Projects
-- 💬 Apart from tech you can Ask me about Accountin 
+- 💬 Apart from tech you can Ask me about Accounting 
 - 📱 Live apps on Heroku 
 
 - 🤪 Fun fact: I love to travel and meet new people.
